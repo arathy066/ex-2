@@ -106,7 +106,7 @@ export default function Content() {
             <div className="row">
                 <div className="col-12 d-flex justify-content-center">
                     <ReactPlayer
-                        src='https://www.youtube.com/watch?v=LXb3EKWsInQ'
+                        src='https://youtu.be/8yh9BPUBbbQ?si=IrfsPays07EE5SLx'
                         width="650px"
                         height="409px"
                     />
